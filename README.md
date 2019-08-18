@@ -4,13 +4,13 @@
 
 我的第一個網站
 
-##成品展示
+## 成品展示
 
 [網站網址(host by heroku)](https://final0817--calvinfeng1.repl.co/)
 
 ![](https://github.com/CalvinFeng88/pythondiary/raw/master/web.png)
 
-##使用技術
+## 使用技術
 
 工具名稱 | 用途
 -------|------
@@ -20,7 +20,7 @@ HTML/CSS | 網頁表示和排版
 Heroku | 託管網頁
 Github | 存放原始碼
 
-##程式碼片段
+## 程式碼片段
 
 ```python
 
